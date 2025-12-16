@@ -1,0 +1,9 @@
+{
+	"uncommon": ["Iron Ore", "Copper Ore", "Tin Ore"],
+    "rare": ["Silver Ore", "Gold Ore", "Platinum Ore"],
+    "epic": ["Ruby Ore", "Sapphire Ore", "Emerald Ore"],
+    "legendary": ["Obsidian", "Diamond Ore", "Uranium Ore"],
+    "mythical": ["Mythril", "Adamantite Ore", "Celestium Ore"],
+    "exotic":  ["Rainbow Crystal", "Quantum Ore", "Magma Ore"],
+    "secret": ["Coreite", "Lightite", "Chronoite"]
+}

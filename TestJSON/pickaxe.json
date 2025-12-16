@@ -1,0 +1,42 @@
+{
+	"stone_pickaxe": {
+		"name": "Stone Pickaxe",
+		"speed": 6,
+		"luck": 5
+	},
+	"iron_pickaxe": {
+		"name": "Iron Pickaxe",
+		"speed": 6,
+		"luck": 8
+	},
+	"bronze_pickaxe": {
+		"name": "Bronze Pickaxe",
+		"speed": 5.7,
+		"luck": 7
+	},
+	"tin_pickaxe": {
+		"name": "Tin Pickaxe",
+		"speed": 5.3,
+		"luck": 5
+	},
+	"silver_pickaxe": {
+		"name": "Silver Pickaxe",
+		"speed": 5.8,
+		"luck": 9
+	},
+	"gold_pickaxe": {
+		"name": "Gold Pickaxe",
+		"speed": 4.5,
+		"luck": 7
+	},
+	"platinum_pickaxe": {
+		"name": "Platinum Pickaxe",
+		"speed": 6,
+		"luck": 12
+	},
+	"admin_pickaxe": {
+		"name": "Admin Pickaxe",
+		"speed": 0.05,
+		"luck": 1000
+	}
+}

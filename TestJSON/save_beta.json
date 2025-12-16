@@ -1,0 +1,37 @@
+{
+    "secret": {
+        "Chronoite": 0,
+        "Coreite": 0,
+        "Lightite": 0
+    },
+    "exotic": {
+        "Magma Ore": 0,
+        "Rainbow Crystal": 0,
+        "Quantum Ore": 0
+    },
+    "mythical": {
+        "Celestium Ore": 0,
+        "Mythril": 0,
+        "Adamantite Ore": 0
+    },
+    "legendary": {
+        "Uranium Ore": 0,
+        "Obsidian": 0,
+        "Diamond Ore": 0
+    },
+    "epic": {
+        "Emerald Ore": 0,
+        "Sapphire Ore": 0,
+        "Ruby Ore": 0
+    },
+    "rare": {
+        "Platinum Ore": 0,
+        "Silver Ore": 0,
+        "Gold Ore": 0
+    },
+    "uncommon": {
+        "Copper Ore": 2,
+        "Iron Ore": 0,
+        "Tin Ore": 0
+    }
+}
